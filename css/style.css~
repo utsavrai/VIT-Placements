@@ -1,0 +1,60 @@
+@font-face {
+    font-family: Roboto;
+    src: url(google.com/design/spec/resources/roboto-noto-fonts.html);
+}
+
+
+
+html {
+	font-family: Roboto ;
+}
+body {
+	background-color: #000033; 
+	margin: 0;
+}
+img {
+	border: 0;
+}
+
+/*------------------------------ HEADER ------------------------------*/
+#header {
+	width: 960px;
+	margin: 0 auto;
+	padding: 40px 0;
+	position: relative;
+}
+
+/** Logo **/
+#logo {
+	display: block;
+	padding: 0 0 35px 20px;
+    font-size: 55px;
+    color:white;
+    font-family:Roboto;
+}
+
+#logo strong {
+    color:orange;
+}
+
+/** Navigation **/
+#navigation ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: orange;
+}
+#navigation li{
+    float:left;
+}
+#navigation a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#navigation a:hover{
+    background-color:darkorange;
+}

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>VIT Placements</title>
+	<link rel="stylesheet" href="../css/style.css" type="text/css">	
+    <script type="text/javascript" src="../scripts/loader.js"></script>
+    <script type="text/javascript" src="../scripts/avgSalBar.js"></script>
+        
+    </script>
+
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="css/ie.css" type="text/css" charset="utf-8" />	
+	<![endif]-->
+</head>
+
+<body>
+    <!--#header-->
+<div id="main">
+	<div id="header">
+		<h1 id="logo"><a href="../index.html">VIT<strong>Placements</strong></a> </h1>
+		  <nav>
+                <ul class="nav">
+                    <li><a href="l_index.html">Home</a></li>
+                    <li><a href="pages/statistics.html">Stastics</a>
+                        <ul>
+                            <li><a href="#">Branch</a>
+                                <ul>
+                                    <li><a href="pages/cse.html">CSE</a></li>
+                                    <li><a href="pages/ece.html">ECE</a></li>
+                                    <li><a href="pages/eee.html">EEE</a></li>
+                                    <li><a href="pages/mech.html">MECH</a></li>
+                                    <li><a href="pages/civil.html">CIVIL</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#">Batch</a>
+                                <ul>
+                                    <li><a href="pages/14.html">2010-14</a></li>
+                                    <li><a href="pages/15.html">2011-15</a></li>
+                                    <li><a href="pages/16.html">2012-16</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        </li>
+                    <li><a href="forum/index1.php">Forum</a></li>
+                    <li><a href="pages/companies.html">Companies</a></li>
+                    <li><a href="pages/about.html">About</a></li>
+                </ul>
+            </nav>
+    </div>
+    <div id="news">
+    <p id="pnews">Latest news:</p>
+    </div>
+    <!-- /#header -->
+    <!--TOP-->
+    <div id="top">
+        <div id="topLeft">
+            <img src="../images/oracle.png">
+        </div>
+        <div id="topRight">
+            <div id="topRightA">
+                <img src="../images/hcl.png">
+            </div>
+            <div id="topRightB">
+                <img src="../images/pepsi.jpeg">
+            </div>
+            <div id="topRightC">
+                <img src="../images/microsoft.jpg">
+            </div>
+            <div id="topRightD">
+                <img src="../images/infosys.png">
+            </div>
+        </div>
+    </div>
+    <!--Top-->
+    <hr>
+    <!--Middle-->
+    <div id="middle">
+    <div id="avgBar">
+    </div>
+    <div id="avgBarr">
+    </div>
+    </div>
+    <!--Middle-->
+    <hr>
+</div>
+</body>
+</html>
+

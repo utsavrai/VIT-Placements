@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>VIT Placements</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css" charset="utf-8" />	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="css/ie.css" type="text/css" charset="utf-8" />	
+	<![endif]-->
+</head>
+
+<body>
+    <!--#header-->
+	<div id="header">
+		<h1 id="logo">VIT<strong>Placements</strong></h1>
+		<div id="navigation">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li class="dropdown">
+                    <a href="#" class="dropbutton">Branch</a>
+                    <div class="dropcontent">
+                        <a href="cse.html">CSE</a>
+                        <a href="ece.html">ECE</a>
+                        <a href="eee.html">EEE</a>
+                        <a href="mech.html">MECH</a>
+                        <a href="civil.html">CIVIL</a>
+                    </div>
+                </li>
+				<li class="dropdown">
+                    <a href="#" class="dropbutton">Batch</a>
+                    <div class="dropcontent">
+                        <a href="14.html#">2010-2014</a>
+                        <a href="15.html">2011-2015</a>
+                        <a href="16.html">2012-2016</a>
+                    </div>
+                </li>
+				<li><a href="companies.html">Companies</a></li>
+			</ul>
+		</div>
+	</div> 
+    <!-- /#header -->
+	<div id="top">
+    
+    </div>
+</body>
+</html>
